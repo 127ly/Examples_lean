@@ -2,7 +2,7 @@
 
 int main()
 {
-    int price = 0;
+    int price = 0; //变量price类型int，初始值为0
 
     printf("请输入金额");
     scanf("%d",&price);
